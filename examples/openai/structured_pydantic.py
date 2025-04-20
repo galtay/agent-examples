@@ -9,12 +9,15 @@ from agent_examples.read_resource import read_text_resource
 client = OpenAI()
 model = "gpt-4.1-nano"
 
+
 class ResearchPaperDetails(BaseModel):
     """Research paper details extraction."""
+
     title: str = Field(title="Paper Title", description="The title of the paper")
     abstract: str
     authors: list[str]
     keywords: list[str]
+
 
 # Print the JSON schema
 print("JSON Schema:")
