@@ -1,0 +1,10 @@
+Title: A planetary system around the millisecond pulsar PSR1257 + 12
+
+Authors: Wolszczan, A. ; Frail, D. A.
+
+Abstract: MILLISECOND radio pulsars, which are old (~109yr), rapidly rotating neutron stars believed to be spun up by accretion of matter from their stellar companions, are usually found in binary systems with other degenerate stars1. Using the 305-m Arecibo radiotelescope to make precise timing measurements of pulses from the recently discovered 6.2-ms pulsar PSR1257 +12 (ref. 2), we demonstrate that, rather than being associated with a stellar object, the pulsar is orbited by two or more planet-sized bodies. The planets detected so far have masses of at least 2.8 M⊕ and 3.4 M⊕ where M⊕ is the mass of the Earth. Their respective distances from the pulsar are 0.47 AU and 0.36 AU, and they move in almost circular orbits with periods of 98.2 and 66.6 days. Observations indicate that at least one more planet may be present in this system. The detection of a planetary system around a nearby (~500 pc), old neutron star, together with the recent report on a planetary companion to the pulsar PSR1829-10 (ref. 3) raises the tantalizing possibility that a non-negligible fraction of neutron stars observable as radio pulsars may be orbited by planet-like bodies.
+
+Publication: Nature, Volume 355, Issue 6356, pp. 145-147 (1992).
+Pub Date: January 1992
+DOI: 10.1038/355145a0
+Keywords: Binary Stars; Extrasolar Planets; Orbital Mechanics; Planetary Systems; Pulsars; Accretion Disks; Least Squares Method; Neutron Stars; Radio Astronomy; Supernova Remnants; Astrophysics

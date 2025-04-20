@@ -1,0 +1,395 @@
+Konishi polis, Earth
+23 387 025 000 000 CST
+15 May 2975, 11:03:17.154 UT
+
+The conceptory was non-sentient software, as ancient as Konishi polis itself. Its main purpose was to enable the citizens of the polis to create offspring: a child of one parent, or two, or twenty – formed partly in their own image, partly according to their wishes, and partly by chance. Sporadically, though, every teratau or so, the conceptory created a citizen with no parents at all.
+
+In Konishi, every home-born citizen was grown from a mind seed, a string of instruction codes like a digital genome. The first mind seeds had been translated from DNA nine centuries before, when the polis founders had invented the Shaper programming language to recreate the essential processes of neuroembryology in software. But any such translation was necessarily imperfect, glossing over the biochemical details in favour of broad, functional equivalence, and the full diversity of the flesher genome could not be brought through intact. Starting from a diminished trait pool, with the old DNA-based maps rendered obsolete, it was crucial for the conceptory to chart the consequences of new variations to the mind seed. To eschew all change would be to risk stagnation; to embrace it recklessly would be to endanger the sanity of every child.
+
+The Konishi mind seed was divided into a billion fields: short segments, six bits long, each containing a simple instruction code. Sequences of a few dozen instructions comprised shapers: the basic subprograms employed during psychogenesis. The effects of untried mutations on fifteen million interacting shapers could rarely be predicted in advance; in most cases, the only reliable method would have been to perform every computation that the altered seed itself would have performed ... which was no different from going ahead and growing the seed, creating the mind, predicting nothing.
+
+The conceptory’s accumulated knowledge of its craft took the form of a collection of annotated maps of the Konishi mind seed. The highest-level maps were elaborate, multi-dimensional structures, dwarfing the seed itself by orders of magnitude. But there was one simple map which the citizens of Konishi had used to gauge the conceptory’s progress over the centuries; it showed the billion fields as lines of latitude, and the sixty-four possible instruction codes as meridians. Any individual seed could be thought of as a path which zig-zagged down the map from top to bottom, singling out an instruction code for every field along the way.
+
+Where it was known that only one code could lead to successful psychogenesis, every route on the map converged on a lone island or a narrow isthmus, ochre against ocean blue. These infrastructure fields built the basic mental architecture every citizen had in common, shaping both the mind’s overarching design and the fine details of vital subsystems.
+
+Elsewhere, the map recorded a spread of possibilities: a broad landmass, or a scattered archipelago. Trait fields offered a selection of codes, each with a known effect on the mind’s detailed structure, with variations ranging from polar extremes of innate temperament or aesthetics down to minute differences in neural architecture less significant than the creases on a flesher’s palm. They appeared in shades of green as wildly contrasting or as flatly indistinguishable as the traits themselves.
+
+The remaining fields – where no changes to the seed had yet been tested, and no predictions could be made – were classified as indeterminate. Here, the one tried code, the known landmark, was shown as grey against white: a mountain peak protruding through a band of clouds which concealed everything to the east or west of it. No more detail could be resolved from afar; whatever lay beneath the clouds could only be discovered firsthand.
+
+Whenever the conceptory created an orphan, it set all the benignly mutable trait fields to valid codes chosen at random, since there were no parents to mimic or please. Then it selected a thousand indeterminate fields, and treated them in much the same fashion: throwing a thousand quantum dice to choose a random path through terra incognita. Every orphan was an explorer, sent to map uncharted territory.
+
+And every orphan was the uncharted territory itself.
+
+The conceptory placed the new orphan seed in the middle of the womb’s memory, a single strand of information suspended in a vacuum of zeros. The seed meant nothing to itself; alone, it might as well have been the last stream of Morse, fleeing through the void past a distant star. But the womb was a virtual machine designed to execute the seed’s instructions, and a dozen more layers of software led down to the polis itself, a lattice of flickering molecular switches. A sequence of bits, a string of passive data, could do nothing, change nothing – but in the womb, the seed’s meaning fell into perfect alignment with all the immutable rules of all the levels beneath it. Like a punched card fed into a Jacquard loom, it ceased to be an abstract message and became a part of the machine.
+
+When the womb read the seed, the seed’s first shaper caused the space around it to be filled with a simple pattern of data: a single, frozen numerical wave train, sculpted across the emptiness like a billion perfect ranks of sand dunes. This distinguished each point from its immediate neighbours further up or down the same slope – but each crest was still identical to every other crest, each trough the same as every other trough. The womb’s memory was arranged as a space with three dimensions, and the numbers stored at each point implied a fourth. So these dunes were four-dimensional.
+
+A second wave was added – running askew to the first, modulated with a slow steady rise – carving each ridge into a series of ascending mounds. Then a third, and a fourth, each successive wave enriching the pattern, complicating and fracturing its symmetries: defining directions, building up gradients, establishing a hierarchy of scales.
+
+The fortieth wave ploughed through an abstract topography bearing no trace of the crystalline regularity of its origins, with ridges and furrows as convoluted as the whorls of a fingerprint. Not every point had been rendered unique – but enough structure had been created to act as the framework for everything to come. So the seed gave instructions for a hundred copies of itself to be scattered across the freshly calibrated landscape.
+
+In the second iteration, the womb read all of the replicated seeds – and at first, the instructions they issued were the same, everywhere. Then, one instruction called for the point where each seed was being read to jump forward along the bit string to the next field adjacent to a certain pattern in the surrounding data: a sequence of ridges with a certain shape, distinctive but not unique. Since each seed was embedded in different terrain, each local version of this landmark was situated differently, and the womb began reading instructions from a different part of every seed. The seeds themselves were all still identical, but each one could now unleash a different set of shapers on the space around it, preparing the foundations for a different specialised region of the psychoblast, the embryonic mind.
+
+The technique was an ancient one: a budding flower’s nondescript stem cells followed a self-laid pattern of chemical cues to differentiate into sepals or petals, stamens or carpels; an insect pupa doused itself with a protein gradient which triggered, at different doses, the different cascades of gene activity needed to sculpt abdomen, thorax or head. Konishi’s digital version skimmed off the essence of the process: divide up space by marking it distinctively, then let the local markings inflect the unwinding of all further instructions, switching specialised subprograms on and off – subprograms which in turn would repeat the whole cycle on ever finer scales, gradually transforming the first rough-hewn structures into miracles of filigreed precision.
+
+By the eighth iteration, the womb’s memory contained a hundred trillion copies of the mind seed; no more would be required. Most continued to carve new detail into the landscape around them – but some gave up on shapers altogether, and started running shriekers: brief loops of instructions which fed streams of pulses into the primitive networks which had grown up between the seeds. The tracks of these networks were just the highest ridges the shapers had built, and the pulses were tiny arrowheads, one and two steps higher. The shapers had worked in four dimensions, so the networks themselves were three-dimensional. The womb breathed life into these conventions, making the pulses race along the tracks like a quadrillion cars shuttling between the trillion junctions of a ten-thousand-tiered monorail.
+
+Some shriekers sent out metronomic bit-streams; others produced pseudo-random stutters. The pulses flowed through the mazes of construction where the networks were still being formed – where almost every track was still connected to every other, because no decision to prune had yet been made. Woken by the traffic, new shapers started up and began to disassemble the excess junctions, preserving only those where a sufficient number of pulses were arriving simultaneously – choosing, out of all the countless alternatives, pathways which could operate in synchrony. There were dead ends in the networks-in-progress, too – but if they were travelled often enough, other shapers noticed, and constructed extensions. It didn’t matter that these first streams of data were meaningless; any kind of signal was enough to help whittle the lowest-level machinery of thought into existence.
+
+In many polises, new citizens weren’t grown at all; they were assembled directly from generic subsystems. But the Konishi method provided a certain quasi-biological robustness, a certain seamlessness. Systems grown together, interacting even as they were being formed, resolved most kinds of potential mismatch themselves, with no need for an external mind-builder to fine-tune all the finished components to ensure that they didn’t clash.
+
+Amidst all this organic plasticity and compromise, though, the infrastructure fields could still stake out territory for a few standardised subsystems, identical from citizen to citizen. Two of these were channels for incoming data – one for gestalt, and one for linear, the two primary modalities of all Konishi citizens, distant descendants of vision and hearing. By the orphan’s two-hundredth iteration, the channels themselves were fully formed, but the inner structures to which they fed their data, the networks for classifying and making sense of it, were still undeveloped, still unrehearsed.
+
+Konishi polis itself was buried two hundred metres beneath the Siberian tundra, but via fibre and satellite links the input channels could bring in data from any forum in the Coalition of Polises, from probes orbiting every planet and moon in the solar system, from drones wandering the forests and oceans of Earth, from ten million kinds of scape or abstract sensorium. The first problem of perception was learning how to choose from this superabundance.
+
+In the orphan psychoblast, the half-formed navigator wired to the controls of the input channels began issuing a stream of requests for information. The first few thousand requests yielded nothing but a monotonous stream of error codes; they were incorrectly formed, or referred to non-existent sources of data. But every psychoblast was innately biased towards finding the polis library (if not, it would have taken millennia) and the navigator kept trying until it hit on a valid address, and data flooded through the channels: a gestalt image of a lion, accompanied by the linear word for the animal.
+
+The navigator instantly abandoned trial and error and went into a spasm of repetition, summoning the same frozen image of the lion again and again. This continued until even the crudest of its embryonic change-discriminators finally stopped firing, and it drifted back towards experimentation.
+
+Gradually, a half-sensible compromise evolved between the orphan’s two kinds of proto-curiosity: the drive to seek out novelty, and the drive to seek out recurring patterns. It browsed the library, learning how to bring in streams of connected information – sequential images of recorded motion, and then more abstract chains of cross-references – understanding nothing, but wired to reinforce its own behaviour when it struck the right balance between coherence and change.
+
+Images and sounds, symbols and equations, flooded through the orphan’s classifying networks, leaving behind, not the fine details – not the spacesuited figure standing on grey-and-white rock against a pitch black sky; not the calm, naked figure disintegrating beneath a grey swarm of nanomachines – but an imprint of the simplest regularities, the most common associations. The networks discovered the circle/sphere: in images of the sun and planets, in iris and pupil, in fallen fruit, in a thousand different artworks, artifacts, and mathematical diagrams. They discovered the linear word for “person”, and bound it tentatively both to the regularities which defined the gestalt icon for “citizen”, and to the features they found in common among the many images of fleshers and gleisner robots.
+
+By the five-hundredth iteration, the categories extracted from the library’s data had given rise to a horde of tiny sub-systems in the input-classifying networks: ten thousand word-traps and image-traps, all poised and waiting to be sprung; ten thousand pattern-recognising monomaniacs staring into the information stream, constantly alert for their own special targets.
+
+These traps began to form connections with each other, using them at first just to share their judgments, to sway each other’s decisions. If the trap for the image of a lion was triggered, then the traps for its linear name, for the kind of sounds other lions had been heard to make, for common features seen in their behaviour (licking cubs, pursuing antelope) all became hypersensitive. Sometimes the incoming data triggered a whole cluster of linked traps all at once, strengthening their mutual connections, but sometimes there was time for over-eager associate traps to start firing prematurely. The lion shape has been recognised – and though the word “lion” has not yet been detected, the “lion” word-trap is tentatively firing ... and so are the traps for cub-licking and antelope-chasing.
+
+The orphan had begun to anticipate, to hold expectations.
+
+By the thousandth iteration, the connections between the traps had developed into an elaborate network in its own right, and new structures had arisen in this network – symbols – which could be triggered by each other as easily as by any data from the input channels. The lion image-trap, on its own, had merely been a template held up to the world to be declared a match or a mismatch – a verdict without implications. The lion symbol could encode an unlimited web of implications – and that web could be tapped at any time, whether or not a lion was visible.
+
+Mere recognition was giving way to the first faint hints of meaning.
+
+The infrastructure fields had built the orphan standard output channels for linear and gestalt, but as yet the matching navigator, needed to address outgoing data to some specific destination in Konishi or beyond, remained inactive. By the two-thousandth iteration, symbols began to jostle for access to the output channels, regardless. They used their traps’ templates to parrot the sound or image which each had learnt to recognise – and it didn’t matter if they uttered the linear words “lion”, “cub”, “antelope” into a void, because the input and output channels were wired together, on the inside.
+
+The orphan began to hear itself think.
+
+Not the whole pandemonium; it couldn’t give voice – or even gestalt – to everything at once. Out of the myriad associations every scene from the library evoked, only a few symbols at a time could gain control of the nascent language production networks. And though birds were wheeling in the sky, and the grass was waving, and a cloud of dust and insects was rising up in the animals’ wake – and more, much more ... the symbols which won out before the whole scene vanished were:
+
+“Lion chasing antelope.”
+
+Startled, the navigator cut off the flood of external data. The linear words cycled from channel to channel, distinct against the silence; the gestalt images summoned up the essence of the chase again and again, an idealised reconstruction shorn of all forgotten details.
+
+Then the memory faded to black, and the navigator reached out to the library again.
+
+The orphan’s thoughts themselves never shrank to a single orderly progression – rather, symbols fired in ever richer and more elaborate cascades – but positive feedback sharpened the focus, and the mind resonated with its own strongest ideas. The orphan had learnt to single out one or two threads from the symbols’ endless thousand-strand argument. It had learnt to narrate its own experience.
+
+The orphan was almost half a megatau old, now. It had a vocabulary of ten thousand words, a short-term memory, expectations stretching several tau into the future, and a simple stream of consciousness. But it still had no idea that there was such a thing in the world as itself.
+
+The conceptory mapped the developing mind after every iteration, scrupulously tracing the effects of the randomised indeterminate fields. A sentient observer of the same information might have visualised a thousand delicate interlocking fractals, like tangled, feathery, zero-gee crystals, sending out ever-finer branches to crisscross the womb as the fields were read and acted upon, and their influence diffused from network to network. The conceptory didn’t visualise anything; it just processed the data, and reached its conclusions.
+
+So far, the mutations appeared to have caused no harm. Every individual structure in the orphan’s mind was functioning broadly as expected, and the traffic with the library, and other sampled data streams, showed no signs of incipient global pathologies.
+
+If a psychoblast was found to be damaged, there was nothing in principle to stop the conceptory from reaching into the womb and repairing every last malformed structure, but the consequences could be as unpredictable as the consequences of growing the seed in the first place. Localised “surgery” sometimes introduced incompatibilities with the rest of the psychoblast, while alterations widespread and thorough enough to guarantee success could be self-defeating, effectively obliterating the original psychoblast and replacing it with an assembly of parts cloned from past healthy ones.
+
+But there were risks, too, in doing nothing. Once a psychoblast became self-aware, it was granted citizenship, and intervention without consent became impossible. This was not a matter of mere custom or law; the principle was built into the deepest level of the polis. A citizen who spiralled down into insanity could spend teratau in a state of confusion and pain, with a mind too damaged to authorise help, or even to choose extinction. That was the price of autonomy: an inalienable right to madness and suffering, inseparable from the right to solitude and peace.
+
+So the citizens of Konishi had programmed the conceptory to err on the side of caution. It continued to observe the orphan closely, ready to terminate psychogenesis at the first sign of dysfunction.
+
+Not long after the five-thousandth iteration, the orphan’s output navigator began to fire – and a tug-of-war began. The output navigator was wired to seek feedback, to address itself to someone or something that showed a response. But the input navigator had long since grown accustomed to confining itself to the polis library, a habit which had been powerfully rewarded. Both navigators were wired with a drive to bring each other into alignment, to connect to the same address, enabling the citizen to listen and speak in the same place – a useful conversational skill. But it meant that the orphan’s chatter of speech and icons flowed straight back to the library, which completely ignored it.
+
+Faced with this absolute indifference, the output navigator sent repressor signals into the change-discriminator networks, undermining the attraction of the library’s mesmerising show, bullying the input navigator out of its rut. Dancing a weird chaotic lockstep, the two navigators began hopping from scape to scape, polis to polis, planet to planet. Looking for someone to talk to.
+
+They caught a thousand random glimpses of the physical world along the way: a radar image of a dust storm sweeping across the sea of dunes ringing the north polar ice cap of Mars; the faint infrared plume of a small comet disintegrating in the atmosphere of Uranus – an event that had taken place decades before, but lingered in the satellite’s discriminating memory. They even chanced upon a realtime feed from a drone weaving its way across the East African savanna towards a pride of lions, but unlike the library’s flowing images this vision seemed intractably frozen, and after a few tau they moved on.
+
+When the orphan stumbled on the address for a Konishi forum, it saw a square paved with smooth rhombuses of mineral blues and greys, arranged in a pattern dense with elusive regularities but never quite repeating itself. A fountain sprayed liquid silver towards a cloud-streaked, burnt-orange sky; as each stream broke apart into mirrored droplets half-way up its arc, the shiny globules deformed into tiny winged piglets which flew around the fountain, braiding each others’ flight paths and grunting cheerfully before diving back into the pool. Stone cloisters ringed the square, the inner side of the walkway a series of broad arches and elaborately decorated colonnades. Some of the arches had been given unusual twists – Eschered or Kleined, skewed through invisible extra dimensions.
+
+The orphan had seen similar structures in the library, and knew the linear words for most of them; the scape itself was so unremarkable that the orphan said nothing about it at all. And the orphan had viewed thousands of scenes of moving, talking citizens, but it was acutely aware of a difference here, though it could not yet grasp clearly what it was. The gestalt images themselves mostly reminded it of icons it had seen before, or the stylised fleshers it had seen in representational art: far more diverse, and far more mercurial, than real fleshers could ever be. Their form was constrained not by physiology or physics, but only by the conventions of gestalt – the need to proclaim, beneath all inflections and subtleties, one primary meaning: I am a citizen.
+
+The orphan addressed the forum: “People.”
+
+The linear conversations between the citizens were public, but muted – degraded in proportion to distance in the scape – and the orphan heard only an unchanging murmur.
+
+It tried again. “People!”
+
+The icon of the nearest citizen – a dazzling multihued form like a stained-glass statue, about two delta high – turned to face the orphan. An innate structure in the input navigator rotated the orphan’s angle of view straight towards the icon. The output navigator, driven to follow it, made the orphan’s own icon – now a crude, unconscious parody of the citizen’s – turn the same way.
+
+The citizen glinted blue and gold. Vis translucent face smiled, and ve said, “Hello, orphan.”
+
+A response, at last! The output navigator’s feedback detector shut off its scream of boredom, damping down the restlessness which had powered the search. It flooded the mind with signals to repress any system which might intervene and drag it away from this precious find.
+
+The orphan parroted: “Hello, orphan.”
+
+The citizen smiled again – “Yes, hello” – then turned back to vis friends.
+
+“People! Hello!”
+
+Nothing happened.
+
+“Citizens! People!”
+
+The group ignored the orphan. The feedback detector backtracked on its satisfaction rating, making the navigators restless again. Not restless enough to abandon the forum, but enough to move within it.
+
+The orphan darted from place to place, crying out: “People! Hello!” It moved without momentum or inertia, gravity or friction, merely tweaking the least significant bits of the input navigator’s requests for data, which the scape interpreted as the position and angle of the orphan’s point-of-view. The matching bits from the output navigator determined where and how the orphan’s speech and icon were merged into the scape.
+
+The navigators learnt to move close enough to the citizens to be easily heard. Some responded – “Hello, orphan” – before turning away. The orphan echoed their icons back at them: simplified or intricate, rococo or spartan, mock-biological, mock-artifactual, forms outlined with helices of luminous smoke, or filled with vivid hissing serpents, decorated with blazing fractal encrustations, or draped in textureless black – but always the same biped, the same ape-shape, as constant beneath the riot of variation as the letter A in a hundred mad monks’ illuminated manuscripts.
+
+Gradually, the orphan’s input-classifying networks began to grasp the difference between the citizens in the forum and all the icons it had seen in the library. As well as the image, each icon here exuded a non-visual gestalt tag – a quality like a distinctive odour for a flesher, though more localised, and much richer in possibilities. The orphan could make no sense of this new form of data, but now its infotrope – a late-developing structure which had grown as a second level over the simpler novelty and pattern detectors – began to respond to the deficit in understanding. It picked up the tenuous hint of a regularity – every citizen’s icon, here, comes with a unique and unvarying tag – and expressed its dissatisfaction. The orphan hadn’t previously bothered echoing the tag, but now, spurred on by the infotrope, it approached a group of three citizens and began to mimic one of them, tag and all. The reward was immediate.
+
+The citizen exclaimed angrily, “Don’t do that, idiot!”
+
+“Hello!”
+
+“No one will believe you if you claim to be me – least of all me. Understand? Now go away!” This citizen had metallic, pewter-grey skin. Ve flashed vis tag on and off for emphasis; the orphan did the same.
+
+“No!” The citizen was now sending out a second tag, alongside the original. “See? I challenge you – and you can’t respond. So why bother lying?”
+
+“Hello!”
+
+“Go away!”
+
+The orphan was riveted; this was the most attention it had ever received.
+
+“Hello, citizen!”
+
+The pewter face sagged, almost melting with exaggerated weariness. “Don’t you know who you are? Don’t you know your own signature?”
+
+Another citizen said calmly, “It must be the new orphan – still in the womb. Your newest co-politan, Inoshiro. You ought to welcome it.”
+
+This citizen was covered in short, golden-brown fur. The orphan said, “Lion.” It tried mimicking the new citizen – and suddenly all three of them were laughing.
+
+The third citizen said, “It wants to be you now, Gabriel.”
+
+The first, pewter-skinned citizen said, “If it doesn’t know its own name, we should call it ‘idiot.’”
+
+“Don’t be cruel. I could show you memories, little part-sibling.” The third citizen’s icon was a featureless black silhouette.
+
+“Now it wants to be Blanca.”
+
+The orphan started mimicking each citizen in turn. The three responded by chanting strange linear sounds which meant nothing – “Inoshiro! Gabriel! Blanca! Inoshiro! Gabriel! Blanca!” – just as the orphan sent out the gestalt images and tags.
+
+Short-term pattern recognisers seized on the connection, and the orphan joined in the linear chant – and continued it for a while, when the others fell silent. But after a few repetitions the pattern grew stale.
+
+The pewter-skinned citizen clasped vis hand to vis chest and said, “I’m Inoshiro.”
+
+The golden-furred citizen clasped vis hand to vis chest and said, “I’m Gabriel.”
+
+The black-silhouetted citizen gave vis hand a thin white outline to keep it from vanishing as ve moved it in front of vis trunk, and said, “I’m Blanca.”
+
+The orphan mimicked each citizen once, speaking the linear word they’d spoken, aping their hand gesture. Symbols had formed for all three of them, binding their icons, complete with tags, and the linear words together – even though the tags and the linear words still connected to nothing else.
+
+The citizen whose icon had made them all chant “Inoshiro” said, “So far so good. But how does it get a name of its own?”
+
+The one with its tag bound to “Blanca” said, “Orphans name themselves.”
+
+The orphan echoed, “Orphans name themselves.”
+
+The citizen bound to “Gabriel” pointed to the one bound to “Inoshiro”, and said, “Ve is—?” The citizen bound to “Blanca” said “Inoshiro.”
+
+Then the citizen bound to “Inoshiro” pointed back at ver and said “Ve is—?” This time, the citizen bound to “Blanca” replied, “Blanca.” The orphan joined in, pointing where the others pointed, guided by innate systems which helped make sense of the scape’s geometry, and completing the pattern easily even when no one else did.
+
+Then the golden-furred citizen pointed at the orphan, and said: “Ve is—?”
+
+The input navigator spun the orphan’s angle of view, trying to see what the citizen was pointing at. When it found nothing behind the orphan, it moved its point of view backwards, closer to the golden-furred citizen – momentarily breaking step with the output navigator.
+
+Suddenly, the orphan saw the icon it was projecting itself – a crude amalgam of the three citizens’ icons, all black fur and yellow metal – not just as the usual faint mental image from the cross-connected channels, but as a vivid scape-object beside the other three.
+
+This was what the golden-furred citizen bound to “Gabriel” was pointing at.
+
+The infotrope went wild. It couldn’t complete the unfinished regularity – it couldn’t answer the game’s question for this strange fourth citizen – but the hole in the pattern needed to be filled.
+
+The orphan watched the fourth citizen change shape and colour, out there in the scape ... changes perfectly mirroring its own random fidgeting: sometimes mimicking one of the other three citizens, sometimes simply playing with the possibilities of gestalt. This mesmerised the regularity detectors for a while, but it only made the infotrope more restless.
+
+The infotrope combined and recombined all the factors at hand, and set a short-term goal: making the pewter-skinned “Inoshiro” icon change, the way the fourth citizen’s icon was changing. This triggered a faint anticipatory firing of the relevant symbols, a mental image of the desired event. But though the image of a wiggling, pulsating citizen-icon easily won control of the gestalt output channel, it wasn’t the “Inoshiro” icon that changed – just the fourth citizen’s icon, as before.
+
+The input navigator drifted of its own accord back into the same location as the output navigator, and the fourth citizen abruptly vanished. The infotrope pushed the navigators apart again; the fourth citizen reappeared.
+
+The “Inoshiro” citizen said, “What’s it doing?” The “Blanca” citizen replied, “Just watch, and be patient. You might learn something.”
+
+A new symbol was already forming, a representation of the strange fourth citizen – the only one whose icon seemed bound by a mutual attraction to the orphan’s viewpoint in the scape, and the only one whose actions the orphan could anticipate and control with such ease. So were all four citizens the same kind of thing – like all lions, all antelope, all circles ... or not? The connections between the symbols remained tentative.
+
+The “Inoshiro” citizen said, “I’m bored! Let someone else baby-sit it!” Ve danced around the group – taking turns imitating the “Blanca” and “Gabriel” icons, and reverting to vis original form. “What’s my name? I don’t know! What’s my signature? I don’t have one! I’m an orphan! I’m an orphan! I don’t even know how I look!”
+
+When the orphan perceived the “Inoshiro” citizen taking on the icons of the other two, it almost abandoned its whole classification scheme in confusion. The “Inoshiro” citizen was behaving more like the fourth citizen, now – though vis actions still didn’t coincide with the orphan’s intentions.
+
+The orphan’s symbol for the fourth citizen kept track of that citizen’s appearance and location in the scape, but it was also beginning to distil the essence of the orphan’s own mental images and short-term goals, creating a summary of all the aspects of the orphan’s state of mind which seemed to have some connection to the fourth citizen’s behaviour. Few symbols possessed sharply defined boundaries, though; most were as permeable and promiscuous as plasmid-swapping bacteria. The symbol for the “Inoshiro” citizen copied some of the state-of-mind structures from the symbol for the fourth citizen, and began trying them out for itself.
+
+At first, the ability to represent highly summarised “mental images” and “goals” was no help at all – because it was still linked to the orphan’s state of mind. The “Inoshiro” symbol’s blindly cloned machinery kept predicting that the “Inoshiro” citizen would behave according to the orphan’s own plans ... and that never happened. In the face of this repeated failure, the links soon withered – and the tiny, crude model-of-a-mind left inside the “Inoshiro” symbol was set free to find the “Inoshiro” state-of-mind that best matched the citizen’s actual behaviour.
+
+The symbol tried out different connections, different theories, hunting for the one that made most sense ... and the orphan suddenly grasped the fact that the “Inoshiro” citizen had been imitating the fourth citizen.
+
+The infotrope seized on this revelation – and tried to make the fourth citizen mimic the “Inoshiro” citizen back.
+
+The fourth citizen proclaimed, “I’m an orphan! I’m an orphan! I don’t even know how I look!”
+
+The “Gabriel” citizen pointed at the fourth citizen and said, “Ve is an orphan!” The “Inoshiro” citizen agreed wearily, “Ve is an orphan. But why does ve have to be this slow!”
+
+Inspired – driven by the infotrope – the orphan tried playing the “Ve is—?” game again, this time using the response “an orphan” for the fourth citizen. The others confirmed the choice, and soon the words were bound to the symbol for the fourth citizen.
+
+When the orphan’s three friends left the scape, the fourth citizen remained. But the fourth citizen had exhausted vis ability to offer interesting surprises, so after pestering some of the other citizens to no avail, the orphan returned to the library.
+
+The input navigator had learnt the simplest indexing scheme used by the library, and when the infotrope hunted for ways to tie up the loose ends in the patterns half-formed in the scape, it succeeded in driving the input navigator to locations in the library which referred to the four citizens’ mysterious linear words: Inoshiro, Gabriel, Blanca, and Orphan. There were streams of data indexed by each of these words, though none seemed to connect to the citizens themselves. The orphan saw so many images of fleshers, often with wings, associated with the word “Gabriel” that it built a whole symbol out of the regularities it found, but the new symbol barely overlapped with that of the golden-furred citizen.
+
+The orphan drifted away from its infotrope-driven search many times; old addresses in the library, etched in memory, tugged at the input navigator. Once, viewing a scene of a grimy flesher child holding up an empty wooden bowl, the orphan grew bored and veered back towards more familiar territory. Halfway there, it came across a scene of an adult flesher crouching beside a bewildered lion cub and lifting it into vis arms.
+
+A lioness lay on the ground behind them, motionless and bloody. The flesher stroked the head of the cub. “Poor little Yatima.”
+
+Something in the scene transfixed the orphan. It whispered to the library, “Yatima. Yatima.” It had never heard the word before, but the sound of it resonated deeply.
+
+The lion cub mewed. The flesher crooned, “My poor little orphan.”
+
+The orphan moved between the library and the scape with the orange sky and the flying-pig fountain. Sometimes its three friends were there, or other citizens would play with it for a while; sometimes there was only the fourth citizen.
+
+The fourth citizen rarely appeared the same from visit to visit – ve tended to resemble the most striking image the orphan had seen in the library in the preceding few kilotau – but ve was still easy to identify: ve was the one who only became visible when the two navigators moved apart. Every time the orphan arrived in the scape, it stepped back from itself and checked out the fourth citizen. Sometimes it adjusted the icon, bringing it closer to a specific memory, or fine-tuning it according to the aesthetic preferences of the input classifying networks – biases first carved out by a few dozen trait fields, then deepened or silted-up by the subsequent data stream. Sometimes the orphan mimicked the flesher it had seen picking up the lion cub: tall and slender, with deep black skin and brown eyes, dressed in a purple robe.
+
+And once, when the citizen bound to “Inoshiro” said with mock sorrow, “Poor little orphan, you still don’t have a name,” the orphan remembered the scene, and responded, “Poor little Yatima.”
+
+The golden-furred citizen said, “I think it does now.”
+
+From then on, they all called the fourth citizen “Yatima.” They said it so many times, making such a fuss about it, that the orphan soon bound it to the symbol as strongly as “Orphan.”
+
+The orphan watched the citizen bound to “Inoshiro” chanting triumphantly at the fourth citizen: “Yatima! Yatima! Ha ha ha! I’ve got five parents, and five part-siblings, and I’ll always be older than you!”
+
+The orphan made the fourth citizen respond, “Inoshiro! Inoshiro! Ha ha ha!”
+
+But it couldn’t think what to say next.
+
+Blanca said, “The gleisners are trimming an asteroid – right now, in realtime. Do you want to come see? Inoshiro’s there, Gabriel’s there. Just follow me!”
+
+Blanca’s icon put out a strange new tag, and then abruptly vanished. The forum was almost empty; there were a few regulars near the fountain, who the orphan knew would be unresponsive, and there was the fourth citizen, as always.
+
+Blanca reappeared. “What is it? You don’t know how to follow me, or you don’t want to come?” The orphan’s language analysis networks had begun fine-tuning the universal grammar they encoded, rapidly homing in on the conventions of linear. Words were becoming more than isolated triggers for symbols, each with a single, fixed meaning; the subtleties of order, context and inflection were beginning to modulate the symbols’ cascades of interpretation. This was a request to know what the fourth citizen wanted.
+
+“Play with me!” The orphan had learnt to call the fourth citizen “I” or “me” rather than “Yatima”, but that was just grammar, not self-awareness.
+
+“I want to watch the trimming, Yatima.”
+
+“No! Play with me!” The orphan weaved around ver excitedly, projecting fragments of recent memories: Blanca creating shared scape objects – spinning numbered blocks, and brightly coloured bouncing balls – and teaching the orphan how to interact with them.
+
+“Okay, okay! Here’s a new game. I just hope you’re a fast learner.”
+
+Blanca emitted another extra tag – the same general flavour as before, though not identical – then vanished again ... only to reappear immediately, a few hundred delta away across the scape. The orphan spotted ver easily, and followed at once.
+
+Blanca jumped again. And again. Each time, ve sent out the new flavour of tag, with a slight variation, before vanishing. Just as the orphan was starting to find the game dull, Blanca began to stay out of the scape for a fraction of a tau before reappearing – and the orphan spent the time trying to guess where ve’d materialise next, hoping to get to the chosen spot first.
+
+There seemed to be no pattern to it, though; Blanca’s solid shadow jumped around the forum at random, anywhere from the cloisters to the fountain, and the orphan’s guesses all failed. It was frustrating ... but Blanca’s games had usually turned out to possess some kind of subtle order in the past, so the infotrope persisted, combining and recombining existing pattern detectors into new coalitions, hunting for a way to make sense of the problem.
+
+The tags! When the infotrope compared the memory of the raw gestalt data for the tags Blanca was sending with the address the innate geometry networks computed when the orphan caught sight of ver a moment later, parts of the two sequences matched up, almost precisely. Again and again. The infotrope bound the two sources of information together – recognising them as two means of learning the same thing – and the orphan began jumping across the scape without waiting to see where Blanca reappeared.
+
+The first time, their icons overlapped, and the orphan had to back away before it saw that Blanca really was there, confirming the success the infotrope had already brashly claimed. The second time, the orphan instinctively compensated, varying the tag address slightly to keep from colliding, as it had learnt to do when pursuing Blanca by sight. The third time, the orphan beat ver to the destination.
+
+“I win!”
+
+“Well done, Yatima! You followed me!”
+
+“I followed you!”
+
+“Shall we go and see the trimming now? With Inoshiro and Gabriel?”
+
+“Gabriel!”
+
+“I’ll take that as a yes.”
+
+Blanca jumped, the orphan followed – and the cloistered square dissolved into a billion stars.
+
+The orphan examined the strange new scape. Between them, the stars shone in almost every frequency from kilometre-long radio waves to high-energy gamma rays. The “colour space” of gestalt could be extended indefinitely, and the orphan had chanced on a few astronomical images in the library which employed a similar palette, but most terrestrial scenes and most scapes never went beyond infrared and ultraviolet. Even the satellite views of planetary surfaces seemed drab and muted in comparison; the planets were too cold to blaze across the spectrum like this. There were hints of subtle order in the riot of colour – series of emission and absorption lines, smooth contours of thermal radiation – but the infotrope, dazzled, gave in to the overload and simply let the data flow through it; analysis would have to wait for a thousand more clues. The stars were geometrically featureless – pointlike, distant, their scape addresses impossible to compute – but the orphan had a fleeting mental image of the act of moving towards them, and imagined, for an instant, the possibility of seeing them up close.
+
+The orphan spotted a cluster of citizens nearby, and once it shifted its attention from the backdrop of stars it began to notice dozens of small groups scattered around the scape. Some of their icons reflected the ambient radiation, but most were simply visible by decree, making no pretence of interacting with the starlight.
+
+Inoshiro said, “Why did you have to bring that along?”
+
+As the orphan turned towards ver, it caught sight of a star far brighter than all the rest, much smaller than the familiar sight in the Earth’s sky, but unfiltered by the usual blanket of gases and dust.
+
+“The sun?”
+
+Gabriel said, “Yes, that’s the sun.” The golden-furred citizen floated beside Blanca, who was visible as sharply as ever, darker even than the cool thin background radiation between the stars.
+
+Inoshiro whined, “Why did you bring Yatima? It’s too young! It won’t understand anything!”
+
+Blanca said, “Just ignore ver, Yatima.”
+
+Yatima! Yatima! The orphan knew exactly where Yatima was, and what ve looked like, without any need to part the navigators and check. The fourth citizen’s icon had stabilised as the tall flesher in the purple robe who’d adopted the lion cub, in the library.
+
+Inoshiro addressed the orphan. “Don’t worry Yatima, I’ll try to explain it to you. If the gleisners didn’t trim this asteroid, then in three hundred thousand years – ten thousand teratau – there’d be a chance it might hit the Earth. And the sooner they trim it, the less energy it takes. But they couldn’t do it before, because the equations are chaotic, so they couldn’t model the approach well enough until now.”
+
+The orphan understood none of this. “Blanca wanted me to see the trimming! But I wanted to play a new game!”
+
+Inoshiro laughed. “So what did ve do? Kidnap you?”
+
+“I followed ver and ve jumped and jumped ... and I followed ver!” The orphan made a few short jumps around the three of them, trying to illustrate the point, though it didn’t really convey the business of leaping right out of one scape into another.
+
+Inoshiro said, “Ssh. Here it comes.”
+
+The orphan followed vis gaze to an irregular lump of rock in the distance – lit by the sun, one half in deep shadow – moving swiftly and steadily towards the loose assembly of citizens. The scape software decorated the asteroid’s image with gestalt tags packed with information about its chemical composition, its mass, its spin, its orbital parameters; the orphan recognised some of these flavours from the library, but it had no real grasp yet of what they meant.
+
+“One slip of the laser, and the fleshers die in pain!” Inoshiro’s pewter eyes gleamed.
+
+Blanca said dryly, “And just three hundred millennia to try again.”
+
+Inoshiro turned to the orphan and added reassuringly, “But we’d be all right. Even if it wiped out Konishi on Earth, we’re backed-up all over the solar system.”
+
+The asteroid was close enough now for the orphan to compute its scape address and its size. It was still some hundred times more distant than the farthest citizen, but it was approaching rapidly. The waiting spectators were arranged in a roughly spherical shell, about ten times as large as the asteroid itself – and the orphan could see at once that if it maintained its trajectory, the asteroid would pass right through the centre of that imaginary sphere.
+
+Everyone was watching the rock intently. The orphan wondered what kind of game this was; a generic symbol had formed which encompassed all the strangers in the scape, as well as the orphan’s three friends, and this symbol had inherited the fourth citizen’s property of holding beliefs about objects which had proved so useful for predicting its behaviour. Maybe people were waiting to see if the rock would suddenly jump at random, like Blanca had jumped? The orphan believed they were mistaken; the rock was not a citizen, it wouldn’t play games with them.
+
+The orphan wanted everyone to know about the rock’s simple trajectory. It checked its extrapolation one more time, but nothing had changed; the bearing and speed were as constant as ever. The orphan lacked the words to explain this to the crowd ... but maybe they could learn things by watching the fourth citizen, the way the fourth citizen had learnt things from Blanca.
+
+The orphan jumped across the scape, straight into the path of the asteroid. A quarter of the sky became pocked and grey, an irregular hillock on the sunward side casting a band of deep shadow across the approaching face. For an instant, the orphan was too startled to move – mesmerised by the scale, and the speed, and the awkward, purposeless grandeur of the thing – then it matched velocities with the rock, and led it back towards the crowd.
+
+People began shouting excitedly, their words immune to the fictitious vacuum but degraded with distance by the scape, scrambled into a pulsating roar. The orphan turned away from the asteroid, and saw the nearest citizens waving and gesticulating.
+
+The fourth citizen’s symbol, plugged directly into the orphan’s mind, had already concluded that the fourth citizen was tracing out the asteroid’s path in order to change what the other citizens thought. So the orphan’s model of the fourth citizen had acquired the property of having beliefs about what other citizens believed ... and the symbols for Inoshiro, Blanca, Gabriel, and the crowd itself, snatched at this innovation to try it out for themselves.
+
+As the orphan plunged into the spherical arena, it could hear people laughing and cheering. Everyone was watching the fourth citizen, though the orphan was finally beginning to suspect that no one had really needed to be shown the trajectory. As it looked back to check that the rock was still on course, a point on the hillock began to glow with intense infrared – and then erupted with light a thousand times brighter than the sunlit rock around it, and a thermal spectrum hotter than the sun itself.
+
+The orphan froze, letting the asteroid draw closer. A plume of incandescent vapour was streaming out of a crater in the hillock; the image was rich with new gestalt tags, all of them incomprehensible, but the infotrope burned a promise into the orphan’s mind: I will learn to understand them.
+
+The orphan kept checking the scape addresses of the reference points it had been following, and it found a microscopic change in the asteroid’s direction. The flash of light – and this tiny shift in course – were what everyone had been waiting to see? The fourth citizen had been wrong about what they knew, what they thought, what they wanted ... and now they knew that? The implications rebounded between the symbols, models of minds mirroring models of minds, as the network hunted for sense and stability.
+
+Before the asteroid could coincide with the fourth citizen’s icon, the orphan jumped back to its friends.
+
+Inoshiro was furious. “What did you do that for? You ruined everything! You baby!”
+
+Blanca asked gently, “What did you see, Yatima?”
+
+“The rock jumped a little. But I wanted people to think ... it wouldn’t.”
+
+“Idiot! You’re always showing off!”
+
+Gabriel said, “Yatima? Why does Inoshiro think you flew with the asteroid?”
+
+The orphan hesitated. “I don’t know what Inoshiro thinks.”
+
+The symbols for the four citizens shifted into a configuration they’d tried a thousand times before: the fourth citizen, Yatima, set apart from the rest, singled out as unique – this time, as the only one whose thoughts the orphan could know with certainty. And as the symbol network hunted for better ways to express this knowledge, circuitous connections began to tighten, redundant links began to dissolve.
+
+There was no difference between the model of Yatima’s beliefs about the other citizens, buried inside the symbol for Yatima ... and the models of the other citizens themselves, inside their respective symbols. The network finally recognised this, and began to discard the unnecessary intermediate stages. The model for Yatima’s beliefs became the whole, wider network of the orphan’s symbolic knowledge.
+
+And the model of Yatima’s beliefs about Yatima’s mind became the whole model of Yatima’s mind: not a tiny duplicate, or a crude summary, just a tight bundle of connections looping back out to the thing itself.
+
+The orphan’s stream of consciousness surged through the new connections, momentarily unstable with feedback: I think that Yatima thinks that I think that Yatima thinks ...
+
+Then the symbol network identified the last redundancies, cut a few internal links, and the infinite regress collapsed into a simple, stable resonance:
+
+I am thinking —
+
+I am thinking that I know what I’m thinking.
+
+Yatima said, “I know what I’m thinking.”
+
+Inoshiro replied airily, “What makes you think anyone cares?”
+
+For the five-thousand-and-twenty-third time, the conceptory checked the architecture of the orphan’s mind against the polis’s definition of self-awareness.
+
+Every criterion was now satisfied.
+
+The conceptory reached into the part of itself which ran the womb, and halted it, halting the orphan. It modified the machinery of the womb slightly, allowing it to run independently, allowing it to be reprogrammed from within. Then it constructed a signature for the new citizen – two unique megadigit numbers, one private, one public – and embedded them in the orphan’s cypherclerk, a small structure which had lain dormant, waiting for these keys. It sent a copy of the public signature out into the polis, to be catalogued, to be counted.
+
+Finally, the conceptory passed the virtual machine which had once been the womb into the hands of the polis operating system, surrendering all power over its contents. Cutting it loose, like a cradle set adrift in a stream. It was now the new citizen’s exoself: its shell, its non-sentient carapace. The citizen was free to reprogram it at will, but the polis would permit no other software to touch it. The cradle was unsinkable, except from within.
+
+Inoshiro said, “Stop it! Who are you pretending to be now?”
+
+Yatima didn’t need to part the navigators; ve knew vis icon hadn’t changed appearance, but was now sending out a gestalt tag. It was the kind ve’d noticed the citizens broadcasting the first time ve’d visited the flying-pig scape.
+
+Blanca sent Yatima a different kind of tag; it contained a random number encoded via the public half of Yatima’s signature. Before Yatima could even wonder about the meaning of the tag, vis cypherclerk responded to the challenge automatically: decoding Blanca’s message, re-encrypting it via Blanca’s own public signature, and echoing it back as a third kind of tag. Claim of identity. Challenge. Response.
+
+Blanca said, “Welcome to Konishi, Citizen Yatima.” Ve turned to Inoshiro, who repeated Blanca’s challenge then muttered sullenly, “Welcome, Yatima.”
+
+Gabriel said, “And Welcome to the Coalition of Polises.”
+
+Yatima gazed at the three of them, bemused – oblivious to the ceremonial words, trying to understand what had changed inside verself. Ve saw vis friends, and the stars, and the crowd, and sensed vis own icon ... but even as these ordinary thoughts and perceptions flowed on unimpeded, a new kind of question seemed to spin through the black space behind them all. Who is thinking this? Who is seeing these stars, and these citizens? Who is wondering about these thoughts, and these sights?
+
+And the reply came back, not just in words, but in the answering hum of the one symbol among the thousands that reached out to claim all the rest. Not to mirror every thought, but to bind them. To hold them together, like skin.
+
+Who is thinking this?
+
+I am.
